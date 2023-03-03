@@ -1,6 +1,6 @@
 1. The file dataset-cleanup.py generates the "ratings-countries-genres" dataframe from the files user-ratedmovies.dat, movie-genres.dat, and movie-countries.dat.
 
-2. Unzip movielens-with-genres-and-countries.csv.zip to get the "ratings-countries-genres" dataframe in csv format. Import this csv file into the .py files mentioned below.
+2. Unzip movielens-with-genres-and-countries.csv.zip and userratedmovies.dat.zip to get the "ratings-countries-genres" dataframes in csv format and "userratedmovies.dat" file. Import these files into the .py files mentioned below.
 
 3. Run total-cost-varying-C-movielens.py to generate a csv file named total-cost-varying-C-movielens.csv.
 
